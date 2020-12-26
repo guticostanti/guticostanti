@@ -12,8 +12,8 @@ Currently studying the following technologies:
 
 <div align="center" >
 
-[![guticostanti's github stats](https://github-readme-stats.vercel.app/api?username=guticostanti&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guticostanti&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)]
+![guticostanti's github stats](https://github-readme-stats.vercel.app/api?username=guticostanti&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guticostanti&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)
 <div style="align-self: center;align-items: center; display: flex; justify-content: space-between; width: 150px;" >
   <a href="https://www.youtube.com/channel/UCEyTU9BFW2TxZMnQxUlqwDA">
     <img src="https://github.com/guticostanti/guticostanti/blob/master/github/youtube.png" alt="youtube" height="50">
