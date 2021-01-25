@@ -1,12 +1,11 @@
 ### Welcome to my github 👋
 
-I am a lawyer learning Data Science and Business Intelligence.<br>
-Currently studying the following technologies:
+Data Scientist & Lawyer<br>
 
 - Programming Languages: JavaScript and Python.
 - Databases: MongoDB, MySQL and SQLServer.
-- CLOUD: Studying for AWS Solutions Architect Associate.
 - See my LinkedIn: [Gustavo Costanti Lara](https://www.linkedin.com/in/gustavo-costanti-lara-772a47197/)
+- See my Medium: [guticostanti](https://medium.com/guticostanti)
 
 <div align="center" >
 
