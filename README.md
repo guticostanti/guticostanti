@@ -4,7 +4,7 @@ Data Scientist & Lawyer<br>
 
 - Programming Languages: JavaScript and Python.
 - Databases: MongoDB, MySQL and SQLServer.
-- See my LinkedIn: [Gustavo Costanti Lara](https://www.linkedin.com/in/gustavo-costanti-lara-772a47197/)
+- See my LinkedIn: [Gustavo Costanti Lara](https://www.linkedin.com/in/guticostanti)
 - See my Medium: [guticostanti](https://medium.com/guticostanti)
 
 <div align="center" >
