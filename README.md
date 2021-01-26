@@ -10,7 +10,7 @@ Data Scientist & Lawyer<br>
 <div align="center" >
 
 <div style="align-self: center;align-items: center; display: flex; justify-content: space-between; width: 150px;" >
-  <a href="https://www.linkedin.com/in/gustavo-costanti-lara-772a47197/">
+  <a href="https://www.linkedin.com/in/guticostanti">
     <img src="https://github.com/guticostanti/guticostanti/blob/master/github/linkedin.png" alt="linkedin" height="50">
   </a>
 </div>
