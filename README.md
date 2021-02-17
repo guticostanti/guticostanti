@@ -2,8 +2,11 @@
 
 Data Scientist & Lawyer<br>
 
-- Programming Languages: JavaScript and Python.
+- Development: Python, SQL, HTML, CSS and JavaScript.
 - Databases: MongoDB, MySQL and SQLServer.
+- Virtualization: Docker and Virtual Box.
+- Data visualization: Power BI and Tableau.
+- Cloud computing: AWS and Azure.
 - See my LinkedIn: [Gustavo Costanti Lara](https://www.linkedin.com/in/guticostanti)
 - See my Medium: [guticostanti](https://medium.com/guticostanti)
 
