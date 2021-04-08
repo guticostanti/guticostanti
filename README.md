@@ -1,6 +1,6 @@
 ### Welcome to my github 👋
 
-Data Scientist & Lawyer<br>
+Developer, Data Scientist & Lawyer<br>
 
 - Development: PHP, Laravel, Python, SQL, HTML, CSS and JavaScript.
 - Databases: MongoDB, MySQL and SQLServer.
