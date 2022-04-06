@@ -2,13 +2,11 @@
 
 Developer, Data Scientist & Lawyer<br>
 
-- Development: PHP, Laravel, Python, SQL, HTML, CSS and JavaScript.
-- Databases: MongoDB, MySQL and SQLServer.
+- Development: Java, Python, SpringBoot, JavaScript, TypeScript, nodejs.
+- Databases: MongoDB, MySQL and PostgreSQL.
 - Virtualization: Docker and Virtual Box.
-- Data visualization: Google Data Studio and Microsoft Power BI.
-- Cloud computing: AWS and Microsoft Azure (Databricks).
+- Cloud computing: AWS.
 - See my LinkedIn: [Gustavo Costanti Lara](https://www.linkedin.com/in/guticostanti)
-- See my blog: [Brail Data Science](https://brasildatascience.com)
 
 <div align="center" >
 
