@@ -1,12 +1,10 @@
 ### Welcome to my github 👋
 
-Developer, Data Scientist & Lawyer<br>
+~$:whoami
+Just a lifelong lerner that decided to start updating his github with usefull tools, articles and whatever comes in my mind.
+I hope you enjoy my github page, and also I hope to be able to contribute more in a near future <br>
 
-- Development: Java, Python, SpringBoot, JavaScript, TypeScript, nodejs.
-- Databases: MongoDB, MySQL and PostgreSQL.
-- Virtualization: Docker and Virtual Box.
-- Cloud computing: AWS.
-- See my LinkedIn: [Gustavo Costanti Lara](https://www.linkedin.com/in/guticostanti)
+- My LinkedIn if you want: [Gustavo Costanti Lara](https://www.linkedin.com/in/guticostanti)
 
 <div align="center" >
 
